@@ -4,6 +4,8 @@
 
 This project demonstrates how to fetch weather data from the **National Weather Service API**, store it in a **Redis cache**, and retrieve it to display on a simple web interface. The application is built using **NextJS** and **TypeScript**, with **Docker** for containerizing the Redis instance.
 
+**[Watch a video of the service running 👀](https://drive.google.com/file/d/10xHzETzP12_yO5rwOa2-uTcTUOw4-rTu/view?usp=sharing)**
+
 ## 🚀 Tech Stack
 
 - **NextJS**: Frontend framework for building React applications with server-side rendering.
